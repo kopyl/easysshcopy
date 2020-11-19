@@ -7,7 +7,7 @@ Video demo: https://vimeo.com/481468957 .
 ## Set up:
 
 1. Edit your server's home path and aliases path in cofig accordingly to example that is already in there.
-2. Copy file 'SSH copy' to your MacOS doc (or do whatever you want for instant access on your freakOS. Sorry, i'm Windows-intolerant).
+2. Copy file 'SSH copy' to your MacOS Dock (or do whatever you want for instant access on your OS).
 
 ## Edit aliases
 
