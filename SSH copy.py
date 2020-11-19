@@ -38,7 +38,7 @@ try:
 	if input_file == "aliases":
 		os.system(f"nano {config.your_aliases_file_path}")
 	else:
-		print("\nExisting loaction aliases")
+		print("\nExisting loaction aliases:\n")
 		for counter,v in enumerate(output_aliases_dict.items(),1):
 			print(f"{counter}. {': '.join(v)}")
 		print()
